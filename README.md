@@ -1,6 +1,4 @@
-# portoSharira
-
-# Website Portofolio Pribadi
+# Website Portofolio Sharira Maharani
 
 Website ini merupakan portofolio pribadi yang saya buat untuk menampilkan informasi tentang diri saya, keahlian, serta proyek yang pernah saya kerjakan.  
 Tujuan website ini adalah sebagai media untuk memperkenalkan diri dan mempermudah orang lain menghubungi saya jika ingin bekerja sama atau menggunakan jasa saya.
